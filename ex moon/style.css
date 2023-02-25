@@ -1,0 +1,76 @@
+body {
+    font-family: 'Baloo Bhaina 2';
+    background: linear-gradient(136.31deg, #0C0F07 14.16%, #1F102B 53.39%, #23193E 82.63%);
+}
+
+header {
+    display: grid;
+    grid-auto-flow: column;
+}
+
+#logo {
+    margin-left: 2rem;
+}
+
+#menu {
+    color: #E0DAED;
+    display: grid;
+    grid-auto-flow: column;
+    margin-right: -3rem;
+    align-items: center;
+}
+
+#content {
+    display: grid;
+    grid-auto-flow: column;
+}
+
+#formArea {
+    color: rgba(159, 127, 219, 0.8);
+    font-size: 40px;
+    text-align: center;
+    line-height: 44px;
+}
+
+input {
+    background-color: rgba(159, 127, 219, 0.8);
+    border-radius: 8px;
+    border: none;
+    width: 408.2px;
+    height: 51.23px;
+    color: #ffffff;
+}
+
+#btn1 {
+    background: #7834F3;
+    border-radius: 8px;
+    width: 230px;
+    height: 80px;
+    border: none;
+    color: #E0DAED;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 48px;
+    letter-spacing: 0.05em;
+
+}
+
+#btn2 {
+    left: 51.17%;
+    right: 38.6%;
+    top: 88.13%;
+    bottom: 6.83%;
+    background: #9F7FDB;
+    border-radius: 8px;
+    width: 230px;
+    height: 80px;
+    border: none;
+    color: #E0DAED;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 48px;
+    letter-spacing: 0.05em;
+}
+
